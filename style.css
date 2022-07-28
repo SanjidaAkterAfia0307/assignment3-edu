@@ -4,16 +4,12 @@
 .primary-font{
     font-family: 'Poppins', sans-serif!important;
 }
-/* .img-gradient::before{
-    content: '';
-    display: block;
-    top: 0;
-    left: 0;
-    bottom: 0;right: 0;
-    background: #000;
-    opacity: 0.7;
-} */
-
+.primary-bg{
+    background: #289BDE!important;
+}
+.about-bg{
+    background: #F4FAFD;
+}
 .overlay {
     position: absolute;
     width:100% ;
